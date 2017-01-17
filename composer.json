@@ -1,0 +1,18 @@
+{
+    "name": "Partnerships",
+    "description": "This block displays partnerships images",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Susana Leitão",
+            "email": "sleitao@uporto.pt"
+        }
+    ],
+    "type": "moodle-block",
+    "require": {
+      "composer/installers": "~1.0"
+    },
+    "extra": {
+      "installer-name": "partnerships"
+    }
+}
